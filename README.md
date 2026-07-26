@@ -58,4 +58,8 @@ pihole setpassword
 ## Project Analytics and Metrics
 Below is a live look at the production dashboard operating on the repurposed hardware, showing real-time client traffic, system resource optimization (5.1% memory utilization), and active telemetry sinkholing.
 
+### 1. Host Server Telemetry (Wired Ethernet Interface)
 ![Pi-hole Analytics Dashboard](Dashboard.png)
+
+### 2. Client-Side Ad-Blocking Verification Test
+![Client Ad-Block Verification Test](Verification.jpg)
